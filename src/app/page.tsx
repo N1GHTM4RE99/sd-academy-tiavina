@@ -70,10 +70,10 @@ export default function Dashboard() {
           className="mb-12"
         >
           <h1 className="text-4xl md:text-5xl font-bold font-syne text-white mb-4">
-            Bienvenue, <span style={{ color: serviceColors['social-media-setup'] }}>Rova</span>
+            Bienvenue, <span style={{ color: serviceColors['seo-and-growth'] }}>Tiavina</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl">
-            Maîtrisez les 8 formations pour devenir expert en Social Media Setup, Account Protection et Telegram Management.
+            Maîtrisez les formations pour devenir expert en SEO, Growth, Paid Campaigns et création de LLC.
           </p>
         </motion.div>
 
@@ -263,7 +263,7 @@ export default function Dashboard() {
                 Tu as complété toutes les formations de SD Academy
               </p>
               <p className="text-gray-400">
-                Tu es maintenant un expert en Social Media Setup, Account Protection et Telegram Management
+                Tu es maintenant un expert en SEO, Growth, Paid Campaigns et création de LLC
               </p>
             </div>
           </motion.div>
