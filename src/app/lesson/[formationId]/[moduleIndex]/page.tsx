@@ -279,7 +279,7 @@ export default function LessonPage() {
                     type="text"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
-                    placeholder="Posez votre question à Tiavina..."
+                    placeholder="Posez vos questions"
                     className="flex-1 bg-background border border-card-border rounded-lg px-4 py-2 text-white placeholder-gray-500 focus:outline-none focus:border-primary"
                     disabled={isLoading}
                   />
