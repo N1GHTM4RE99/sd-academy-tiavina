@@ -75,8 +75,8 @@ export default function TopBar() {
               </div>
             )}
             <div className="px-3 py-1.5 rounded-lg bg-card-bg border border-card-border">
-              <span className="text-sm text-gray-300">Tiavina</span>
-              <span className="text-xs text-gray-400 ml-2">Head of Growth & Legal Structure</span>
+              <span className="text-sm text-gray-300">Rova</span>
+              <span className="text-xs text-gray-400 ml-2">Head of Social Media</span>
             </div>
           </div>
         </div>
